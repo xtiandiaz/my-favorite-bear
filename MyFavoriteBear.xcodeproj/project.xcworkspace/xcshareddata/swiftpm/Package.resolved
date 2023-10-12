@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "beryllium",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:xtiandiaz/Beryllium.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "abb7dc9b3753b436c3e210bd0dc76e2f36cf34f3"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
